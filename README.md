@@ -1,4 +1,4 @@
 Spring Boot Rest Sample Application
 -------------------------------------------------
 
-Spring Boot, Web (Rest), JPA, MySQL
+Dependencies: Web, JPA, MySQL
